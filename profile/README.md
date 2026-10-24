@@ -1,3 +1,5 @@
+![Hype Meets Data — official brand artwork](../assets/HMD_GITHUB_README_HEADER_1280x320.png)
+
 # Hype Meets Data
 
 **Don't trust. Test.**
